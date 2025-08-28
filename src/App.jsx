@@ -588,9 +588,8 @@ function Contact() {
 
           {sent && (
             <p className="mt-3 text-center text-emerald-300 font-medium">
-              ✅ Your message has been{" "}
-              <span className="font-bold">simulated as sent</span>! (Backend not
-              integrated)
+              ✅ Your message has been
+              
             </p>
           )}
         </form>
