@@ -588,7 +588,7 @@ function Contact() {
 
           {sent && (
             <p className="mt-3 text-center text-emerald-300 font-medium">
-              ✅ Your message has been
+              ✅ Your message has been sent
               
             </p>
           )}
